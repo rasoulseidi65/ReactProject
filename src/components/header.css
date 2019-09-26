@@ -1,0 +1,10 @@
+
+.navbar{
+    font-family: IRANSansWeb_Bold;
+}
+.navbar-inverse {
+    background-color: #FF8800!important;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: white!important;
+}

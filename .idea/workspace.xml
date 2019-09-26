@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abd2a2bc-a32f-4ebb-ad93-142adb9021b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/addons-pro/cards-extended.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/addons-pro/cards-extended.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/addons-pro/chat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/addons-pro/chat.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/addons-pro/muli-range.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/addons-pro/muli-range.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/addons-pro/steppers.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/addons-pro/steppers.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/addons-pro/timeline.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/addons-pro/timeline.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/addons/datatables-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/addons/datatables-select.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/addons/datatables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/addons/datatables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/addons/directives.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/addons/directives.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/addons/flag.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/addons/flag.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/addons/zmd.hierarchical-display.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/addons/zmd.hierarchical-display.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/mdb.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/mdb.lite.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/mdb.lite.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/mdb.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/modules/accordion-extended.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/modules/accordion-extended.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/modules/animations-extended.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/modules/animations-extended.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/modules/charts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/modules/charts.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/modules/lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/modules/lightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/modules/megamenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/modules/megamenu.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/modules/parallax.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/modules/parallax.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/css/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/font/roboto/Roboto-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/font/roboto/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/font/roboto/Roboto-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/font/roboto/Roboto-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/font/roboto/Roboto-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/font/roboto/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/font/roboto/Roboto-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/font/roboto/Roboto-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/font/roboto/Roboto-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/font/roboto/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/font/roboto/Roboto-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/font/roboto/Roboto-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/font/roboto/Roboto-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/font/roboto/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/font/roboto/Roboto-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/font/roboto/Roboto-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/font/roboto/Roboto-Thin.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/font/roboto/Roboto-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/font/roboto/Roboto-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/font/roboto/Roboto-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/img/flags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/img/lightbox/default-skin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/img/lightbox/default-skin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/img/lightbox/preloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/img/overlays/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/img/overlays/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/img/overlays/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/img/overlays/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/img/overlays/05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/img/overlays/06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/img/overlays/07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/img/overlays/08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/img/overlays/09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/img/sample.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/img/svg/arrow_left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/img/svg/arrow_right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/img/svg/flags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/addons-pro/multi-range.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/addons-pro/multi-range.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/addons-pro/steppers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/addons-pro/steppers.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/addons-pro/timeline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/addons/datatables-select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/addons/datatables-select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/addons/datatables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/addons/datatables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/addons/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/addons/jquery.zmd.hierarchical-display.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/addons/masonry.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/addons/rating.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/mdb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/mdb.lite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/mdb.lite.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/mdb.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mdbootstrap/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/IRANSansWeb(FaNum).ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/IRANSansWeb(FaNum)_Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/IRANSansWeb(FaNum)_Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/IRANSansWeb(FaNum)_Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/IRANSansWeb(FaNum)_UltraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Yekan.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Yekan.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Yekan.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Yekan.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Yekan.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.rtl.full.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.rtl.full.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slideShow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RIMqzCBasqZIv3oUDTYY3OCqQ0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\untitled\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\untitled\src\assets" />
+      <recent name="G:\untitled\src" />
+      <recent name="G:\untitled\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abd2a2bc-a32f-4ebb-ad93-142adb9021b7" name="Default Changelist" comment="" />
+      <created>1569350352022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569350352022</updated>
+      <workItem from="1569350354305" duration="2830000" />
+      <workItem from="1569404890225" duration="431000" />
+      <workItem from="1569405397569" duration="15737000" />
+      <workItem from="1569475430832" duration="5733000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

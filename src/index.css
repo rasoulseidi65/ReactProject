@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'yekan';
+    src: url(./assets/fonts/Yekan.eot);
+    src: url(./assets/fonts/Yekan.eot?#iefix) format("embedded-opentype"),
+    url(./assets/fonts/Yekan.woff) format("woff"),
+    url(./assets/fonts/Yekan.ttf) format("truetype"),
+    url(./assets/fonts/Yekan.svg#BYekan) format("svg");
+    font-weight: normal;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'IRANSansWeb';
+    src: url('./assets/fonts/IRANSansWeb(FaNum)_Light.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'IRANSansWeb_Bold';
+    src: url('./assets/fonts/IRANSansWeb(FaNum)_Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Material Icons';
+    font-style: normal;
+    font-weight: 400;
+    src: url(./assets/fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2) format('woff2');
+}
+
+
+body {
+  margin: 0;
+  font-family: IRANSansWeb_Bold;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
