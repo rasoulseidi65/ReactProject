@@ -67,14 +67,7 @@ class Header extends Component {
                         </div>
                     </div>
                 </nav>
-    <form onSubmit={this.handleSubmit}>
-        <label>
-            Name:
-            <input type="text" value={this.state.value} onChange={this.handleChange} />
-            <input type="text" value={this.state.number}/>
-        </label>
-        <input className="btn btn-success" type="submit" value="ارسال" />
-    </form>
+
 </div>
         );
     }
